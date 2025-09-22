@@ -6,19 +6,6 @@ The repository is structured to separate the **ESP32-CAM capture**, **Raspberry 
 
 ---
 
-## 📂 Repository Structure
-
-MONO_ROBOT/
-│
-├── RPi/
-│ ├── rpi_frame_storage/ # Folder where ESP32-CAM frames are saved
-│ ├── rpi_frame_server.py # TCP server to receive frames from ESP32-CAM
-│ └── mono_process.py # Monocular Visual Odometry (VO) processing
-│
-├── ESP32_CAM/
-│ └── esp32_tcp_client.ino # ESP32-CAM code to capture and send frames over TCP
-│
-├── README.md
 
 
 
