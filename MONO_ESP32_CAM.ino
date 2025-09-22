@@ -11,8 +11,8 @@
  * 2. Flash to ESP32S3 board using Arduino IDE or PlatformIO.
  * 3. On Raspberry Pi, run a TCP server to receive frames.
  *
- * Author: Your Name
- * Repo: https://github.com/yourusername/esp32cam-stream
+ * Author: Harsha Vardhan Reddy Yerranagu
+ * Repo: https://github.com/Harshavardhan200/MONO_ROBOT//MONO_ESP32_CAM.ino
  */
 
 #include "esp_camera.h"
